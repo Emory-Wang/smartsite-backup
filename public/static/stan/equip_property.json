@@ -1,0 +1,96 @@
+[{
+      "value": 1,
+      "label": "摄像机",
+      "children":[
+        {
+          "value":1,
+          "label":"像素"
+        },
+        {
+          "value":2,
+          "label":"存储时间"
+        },
+        {
+          "value":3,
+          "label":"视频流"
+        }
+      ]
+    },
+    {
+      "value": 2,
+      "label": "雾炮设备",
+      "children":[
+        {
+          "value":4,
+          "label":"射程"
+        },
+        {
+          "value":5,
+          "label":"存储时间"
+        }
+      ]
+    },
+    {
+      "value": 3,
+      "label": "LED显示屏",
+      "children":[
+        {
+          "value":6,
+          "label":"像素点间距"
+        }
+      ]
+    },
+    {
+      "value": 4,
+      "label": "电子元器件",
+      "children":[
+        {
+          "value":7,
+          "label":"环境温度"
+        },
+        {
+          "value":8,
+          "label":"相对湿度"
+        },
+        {
+          "value":9,
+          "label":"海拔高度"
+        },
+        {
+          "value":10,
+          "label":"电源电压"
+        },
+        {
+          "value":11,
+          "label":"电源频率"
+        }
+      ]
+    },
+    {
+      "value": 5,
+      "label": "激光位移传感器",
+      "children":[
+        {
+          "value":12,
+          "label":"量程"
+        },
+        {
+          "value":13,
+          "label":"精度"
+        },
+        {
+          "value":14,
+          "label":"分辨率"
+        },
+        {
+          "value":16,
+          "label":"供电"
+        },
+        {
+          "value":17,
+          "label":"通讯距离"
+        }
+      ]
+    }
+
+  ]

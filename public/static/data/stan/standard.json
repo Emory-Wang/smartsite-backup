@@ -1,0 +1,52 @@
+[
+  {
+  "id": 1,
+  "short_cut": "各区县住房城乡建设主管部门利用APP完成对项目的地理坐标定位。",
+  "equips": "网络",
+  "first_level_id":1,
+  "second_level_id":2
+  },
+  {
+  "id": 2,
+  "short_cut": "人脸识别考勤设备：项目应在施工现场大门进出口安装人脸识别考勤设备，对建筑工人的进出场进行人脸考勤。",
+  "equips": "人脸识别仪",
+  "first_level_id":1,
+  "second_level_id":2
+  },
+  {
+  "id": 3,
+  "short_cut": "人脸识别考勤设备应支持互联网接入，设备人脸特征数据存储数据量不低于2000条，离线存储的考勤记录数据不低于10万条。",
+  "equips": "人脸识别仪、存储",
+  "first_level_id":1,
+  "second_level_id":5
+  },
+  {
+  "id": 4,
+  "short_cut": "项目视频监控系统设备应由捕影部分、传输部分和显示部分构成。",
+  "equips": "监控设备、网络",
+  "first_level_id":1,
+  "second_level_id":5
+  },
+  {
+  "id": 5,
+  "short_cut": "项目视频监控的图像分辨率应达到 D4标准（1280×720，水平720线，逐行扫描）。",
+  "equips": "监控设备",
+  "first_level_id":1,
+  "second_level_id":4
+  },
+  {
+      "id": 6,
+      "short_cut": "实现喷淋和雾炮远程控制开关",
+      "equips": "雾炮设备",
+      "first_level_id":3,
+      "second_level_id":2
+  },
+  {
+      "id": 7,
+      "short_cut": "环保监测指标超限值后自动预警并开启喷淋和雾炮并与智慧城建系统联动",
+      "equips": "雾炮设备",
+      "first_level_id":3,
+      "second_level_id":2
+  }
+
+]

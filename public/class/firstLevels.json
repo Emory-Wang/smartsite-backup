@@ -1,0 +1,78 @@
+[
+  {
+    "value":1,
+    "label":"人员实名制管理"
+  },
+  {
+    "value":2,
+    "label":"视频监控"
+  },
+  {
+    "value":3,
+    "label":"扬尘噪声监测"
+  },
+  {
+    "value":4,
+    "label":"施工升降机安全监控"
+  },
+  {
+    "value":5,
+    "label":"塔式起重机安全监控"
+  },
+  {
+    "value":6,
+    "label":"危险性较大的分部分项工程安全管理"
+  }
+]
+
+{
+	"event_type_data":[
+		{
+			"event_type":1,
+			"content":"洪水"
+		},
+		{
+			"event_type":2,
+			"content":"火灾"
+		},
+		{
+			"event_type":3,
+			"content":"地震"
+		}
+	]
+}
+
+{
+	"event_scale_data":[
+		{
+			"event_scale":1,
+			"content":"一般"
+		},
+		{
+			"event_scale":2,
+			"content":"较大"
+		},
+		{
+			"event_scale":3,
+			"content":"重大"
+		}
+	]
+}
+
+{
+	"site_type_data":[
+		{
+			"site_type":1,
+			"content":"居民区"
+		},
+		{
+			"site_type":2,
+			"content":"商业区"
+		},
+		{
+			"site_type":3,
+			"content":"森林"
+		}
+	]
+}
+

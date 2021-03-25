@@ -1,0 +1,98 @@
+[
+    {
+        "equstate": "",
+        "children": [
+            {
+                "equstate": "",
+                "children": [
+                    {
+                        "equstate": "",
+                        "children": [
+                            {
+                                "equstate": false,
+                                "name": "",
+                                "id": 1,
+                                "detail": "隐蔽工程、分部分项工程和单位工程质量报验、审核与签认等过程信息",
+                                "state": ""
+                            },
+                            {
+                                "equstate": false,
+                                "name": "",
+                                "id": 2,
+                                "detail": "检验批验收记录信息：时间、部位，质量情况等",
+                                "state": ""
+                            },
+                            {
+                                "equstate": false,
+                                "name": "",
+                                "id": 3,
+                                "detail": "岗位质量责任、岗前培训及技术交底信息",
+                                "state": ""
+                            }
+                        ],
+                        "name": "工程质量验收二级分类1",
+                        "id": 6,
+                        "detail": "",
+                        "state": ""
+                    }
+                ],
+                "name": "工程质量验收",
+                "id": 1,
+                "detail": "",
+                "state": ""
+            },
+            {
+                "equstate": "",
+                "children": [
+                    {
+                        "equstate": "",
+                        "children": [
+                            {
+                                "equstate": false,
+                                "name": "",
+                                "id": 7,
+                                "detail": "设备安装区域：工地出入口、塔吊、施工作业面、材料加工区、施工电梯、项目部会议室等",
+                                "state": ""
+                            },
+                            {
+                                "equstate": false,
+                                "name": "",
+                                "id": 9,
+                                "detail": "预留一个可移动视频监控摄像头",
+                                "state": ""
+                            }
+                        ],
+                        "name": "视频监控二级分类1",
+                        "id": 1,
+                        "detail": "",
+                        "state": ""
+                    },
+                    {
+                        "equstate": "",
+                        "children": [
+                            {
+                                "equstate": true,
+                                "name": "",
+                                "id": 8,
+                                "detail": "视频监控的图像分辨率应不低于1920*1080的标准\r\n",
+                                "state": ""
+                            }
+                        ],
+                        "name": "视频监控二级分类2",
+                        "id": 2,
+                        "detail": "",
+                        "state": ""
+                    }
+                ],
+                "name": "视频监控",
+                "id": 3,
+                "detail": "",
+                "state": ""
+            }
+        ],
+        "name": "模板89",
+        "id": 89,
+        "detail": "",
+        "state": ""
+    }
+]
